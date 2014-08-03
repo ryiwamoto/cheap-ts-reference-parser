@@ -1,0 +1,25 @@
+{
+  "name": "cheap-ts-reference-parser",
+  "version": "0.0.1",
+  "description": "Regex based Reference parser for Typescript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine-node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryiwamoto/cheap-ts-reference-parser.git"
+  },
+  "author": "ryiwamoto <konnpekigan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryiwamoto/cheap-ts-reference-parser/issues"
+  },
+  "homepage": "https://github.com/ryiwamoto/cheap-ts-reference-parser",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
