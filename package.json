@@ -1,6 +1,6 @@
 {
   "name": "cheap-ts-reference-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Regex based Reference parser for Typescript",
   "main": "index.js",
   "directories": {
